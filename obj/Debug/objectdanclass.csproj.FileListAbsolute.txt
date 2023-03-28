@@ -1,0 +1,6 @@
+C:\amy\objectdanclass\objectdanclass\bin\Debug\objectdanclass.exe.config
+C:\amy\objectdanclass\objectdanclass\bin\Debug\objectdanclass.exe
+C:\amy\objectdanclass\objectdanclass\bin\Debug\objectdanclass.pdb
+C:\amy\objectdanclass\objectdanclass\obj\Debug\objectdanclass.csprojResolveAssemblyReference.cache
+C:\amy\objectdanclass\objectdanclass\obj\Debug\objectdanclass.exe
+C:\amy\objectdanclass\objectdanclass\obj\Debug\objectdanclass.pdb
